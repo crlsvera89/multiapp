@@ -81,3 +81,6 @@ Sirve para traer una oportunidad puntual desde Mercado Público sin esperar al c
 
 ## Próximos pasos sugeridos
 Formulario nuevo/editar · Detalle con tabs · Calendario de cierres · Reportes (export Excel) · PWA + notificaciones push · Deploy en Vercel · evaluar la nueva **API de Compra Ágil** de ChileCompra (beta, mayo 2026) para sincronizar datos automáticamente.
+
+
+<!-- deploy trigger: primer despliegue en Vercel -->
